@@ -1,0 +1,87 @@
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.core-compo1{
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    display:flex;
+
+}
+.core-img{
+    display:block;
+    height:80%;
+    width:80%;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+p.text1{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    text-align: center;
+    font-size:15px;
+    font-family: "DM Sans";
+}
+
+p.text2{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size:15px;
+    font-family: "DM Sans";
+}
+
+p.text3{
+    margin-left: 40px;
+    line-height: 40px;
+    margin-right: auto;
+    text-align: left;
+    font-size:15px;
+    font-family: "DM Sans";
+}
+p.text4{
+    margin-left: 40px;
+    line-height: 40px;
+    margin-right: auto;
+    text-align: left;
+    font-size:15px;
+    font-weight: bold;
+    font-family: "DM Sans";
+}
+
+.button-not-validated{
+    height:45px;
+    width:150px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.button-not-visible{
+    padding:1px;
+    height:45px;
+    width:150px;
+}
+
+.col-md-2{
+    margin-top: 35px;
+    margin-left: 55px;
+    margin-bottom: 20px;
+    text-align: center;
+    display:block;
+}
+.col-md-8{
+    margin-top: 20px;
+    text-align: center;
+    height:270px;
+    display:block;
+}
+
+.button-group{
+    margin-left: 90px;
+}
+

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf424a7e-1e7d-4fc8-9279-9443a031d6bb" name="Changes" comment="del: useless file">
+      <change afterPath="$PROJECT_DIR$/frontend/src/App/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/Core/Core.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/Core/Core.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/Core/toit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/Header/Header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/Header/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/Header/tuco1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/Header/tuco2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/backLink.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GJbNNolqwWbpSpGEib083CAnra" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/adrie/Desktop/tucoenergie",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "ts.external.directory.path": "C:\\Users\\adrie\\Documents\\tucoenergie\\frontend\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\adrie\Documents\tucoenergie\becqe\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\adrie\Documents\tucoenergie\becqe\public" />
+      <recent name="C:\Users\adrie\Documents\tucoenergie\becqe\src\Header" />
+      <recent name="C:\Users\adrie\Documents\tucoenergie\becqe\src\Core" />
+      <recent name="C:\Users\adrie\Documents\tucoenergie\becqe\src\App" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf424a7e-1e7d-4fc8-9279-9443a031d6bb" name="Changes" comment="" />
+      <created>1666109592327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666109592327</updated>
+      <workItem from="1666109596274" duration="6494000" />
+      <workItem from="1666166005269" duration="3107000" />
+      <workItem from="1666172125507" duration="618000" />
+      <workItem from="1666173386357" duration="552000" />
+      <workItem from="1666185158225" duration="1517000" />
+      <workItem from="1666550085949" duration="701000" />
+      <workItem from="1666591631729" duration="11052000" />
+      <workItem from="1666608631907" duration="6529000" />
+      <workItem from="1666616381025" duration="2527000" />
+      <workItem from="1666619867346" duration="1346000" />
+      <workItem from="1666621627076" duration="2606000" />
+      <workItem from="1666627413864" duration="1666000" />
+      <workItem from="1666678814327" duration="9486000" />
+      <workItem from="1666689946826" duration="311000" />
+      <workItem from="1666695386909" duration="9923000" />
+      <workItem from="1666764943054" duration="9537000" />
+      <workItem from="1666781156334" duration="3659000" />
+      <workItem from="1666789159449" duration="1120000" />
+      <workItem from="1666791194636" duration="1369000" />
+      <workItem from="1666796765356" duration="1799000" />
+      <workItem from="1666800770601" duration="1292000" />
+      <workItem from="1666856564708" duration="988000" />
+      <workItem from="1666865360418" duration="1349000" />
+      <workItem from="1666943502376" duration="1372000" />
+      <workItem from="1666955735337" duration="1682000" />
+      <workItem from="1667033493730" duration="73000" />
+      <workItem from="1667037526896" duration="396000" />
+      <workItem from="1667044768981" duration="1314000" />
+      <workItem from="1667046131855" duration="1391000" />
+      <workItem from="1667065825245" duration="2010000" />
+      <workItem from="1667116528748" duration="3338000" />
+      <workItem from="1667208753186" duration="1586000" />
+      <workItem from="1667665538910" duration="583000" />
+      <workItem from="1667744533253" duration="1909000" />
+      <workItem from="1667814646432" duration="955000" />
+      <workItem from="1667818242156" duration="3574000" />
+      <workItem from="1667829446791" duration="10341000" />
+      <workItem from="1667891340547" duration="2796000" />
+      <workItem from="1667897702199" duration="1894000" />
+      <workItem from="1667899653230" duration="2477000" />
+      <workItem from="1667977636319" duration="114000" />
+      <workItem from="1667977856971" duration="199000" />
+      <workItem from="1668251210579" duration="1357000" />
+      <workItem from="1668274395067" duration="109000" />
+      <workItem from="1668421046166" duration="10960000" />
+      <workItem from="1668446299959" duration="5969000" />
+      <workItem from="1668464528975" duration="1867000" />
+      <workItem from="1668496091761" duration="2769000" />
+      <workItem from="1668505880148" duration="6638000" />
+      <workItem from="1668517144331" duration="492000" />
+      <workItem from="1668521126364" duration="1873000" />
+      <workItem from="1668523709871" duration="1975000" />
+      <workItem from="1668531014914" duration="1393000" />
+      <workItem from="1668670867277" duration="15000" />
+      <workItem from="1668672389305" duration="232000" />
+      <workItem from="1668681961206" duration="361000" />
+      <workItem from="1668852038987" duration="64000" />
+    </task>
+    <task id="LOCAL-00001" summary="del: useless file">
+      <created>1666125190369</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666125190369</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/frontend/becqe" />
+    </ignored-roots>
+    <MESSAGE value="del: useless file" />
+    <option name="LAST_COMMIT_MESSAGE" value="del: useless file" />
+  </component>
+</project>
